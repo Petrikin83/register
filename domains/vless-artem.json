@@ -1,9 +1,14 @@
 {
   "owner": {
-    "username": "Petrinik83",
+    "username": "Petrikin83",
     "email": "aspetrikin@gmail.com"
   },
-  "record": {
-    "A": ["188.137.180.202"]
+  "records": {
+    "A": [
+      {
+        "value": "188.137.180.202",
+        "proxied": false
+      }
+    ]
   }
 }
